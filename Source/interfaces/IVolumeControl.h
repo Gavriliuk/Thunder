@@ -21,6 +21,8 @@
 
 #include "Module.h"
 
+// @subgen:include "../com/IRPCIterator.h"
+
 namespace WPEFramework {
 namespace Exchange {
 
